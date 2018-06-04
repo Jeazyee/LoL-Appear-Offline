@@ -1,0 +1,10 @@
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\bin\Debug\LoL_AppearOffline.exe.config
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\bin\Debug\LoL_AppearOffline.exe
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\bin\Debug\LoL_AppearOffline.pdb
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.csprojResolveAssemblyReference.cache
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.Properties.Resources.resources
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.csproj.GenerateResource.Cache
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.csproj.CoreCompileInputs.cache
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.exe
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.pdb
+C:\Users\Jeazyee\source\repos\LoL_AppearOffline\LoL_AppearOffline\obj\Debug\LoL_AppearOffline.LoL_AppearOffline.resources
